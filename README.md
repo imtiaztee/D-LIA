@@ -6,7 +6,7 @@ This repository has been created for experimenting the D-LIA scheme proposed in 
 Add mptcp.dlia.c in /usr/src/.../net/ipv4/mptcp.
 make and make install for the directory.
 reboot the system.
-Change the default Congestion Algorithm to bbr
+Change the default Congestion Algorithm to "dlia"
 
 *Above development was based on the Linux version of v4.9.169.
 
