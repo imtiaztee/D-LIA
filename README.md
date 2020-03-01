@@ -1,4 +1,4 @@
-This repository has been created for experimenting the D-LIA scheme proposed in "D-LIA: dynamic congestion control algorithm for MPTCP" in Linux Kernel. ***The article has been submitted for review in ELECTRONICS.***
+This repository has been created for experimenting the D-LIA scheme proposed in "D-LIA: dynamic congestion control algorithm for MPTCP" in Linux Kernel. ***The article has been submitted for review in ICT Express***
 
 
 **#Instructions:** <br />
@@ -8,12 +8,11 @@ make and make install for the directory.
 reboot the system.
 Change the default Congestion Algorithm to bbr
 
-*Above development was based on the Linux version of 4.14.64+.*
+*Above development was based on the Linux version of v4.9.169.
 
 ********************************************************
 
 Thanks.
 Tabassum Lubna and Imtiaz Mahmud.
-
 ********************************************************
 For any inquiry, please contact at juthy.cse@gmail.com or imtiaz.tee@gmail.com.
