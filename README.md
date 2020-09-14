@@ -12,7 +12,7 @@ Change the default Congestion Algorithm to "dlia"
 
 ********************************************************
 
-Thanks.
-Tabassum Lubna and Imtiaz Mahmud.
+Thanks and regards. <br />
+Tabassum Lubna and Dr. Imtiaz Mahmud.
 ********************************************************
 For any inquiry, please contact at juthy.cse@gmail.com or imtiaz.tee@gmail.com.
